@@ -15,8 +15,3 @@ commands:
     usage: /<command> [player]
     permission: vanishfakeleave.fakejoin
     permission-message: §cYou don't have a permission.
-  toggle:
-    description: This is a demo command.
-    usage: /<command> [player]
-    permission: vanishfakeleave.fakejoin
-    permission-message: §cYou don't have a permission.
