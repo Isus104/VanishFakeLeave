@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="VanishFakeLeave:jar">
+    <output-path>$USER_HOME$/Desktop/New folder (3)/plugins</output-path>
+    <root id="archive" name="VanishFakeLeave.jar">
+      <element id="module-output" name="VanishFakeLeave" />
+    </root>
+  </artifact>
+</component>

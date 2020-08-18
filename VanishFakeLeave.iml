@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <content url="jar://$USER_HOME$/Desktop/spigot-api-1.16.2-R0.1-20200811.212426-1-javadoc.jar!/" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="spigot-api-1.16.1" level="project" />
+    <orderEntry type="library" name="EssentialsX-2.18.0.0" level="project" />
+    <orderEntry type="library" name="DiscordSRV-Build-1.19.1" level="project" />
+  </component>
+</module>

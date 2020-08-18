@@ -1,0 +1,22 @@
+name: VanishFakeLeave
+version: "1.0"
+author: Isus
+main: isus.VanishFakeLeave.VanishFakeLeave
+api-version: "1.16"
+depend: [Essentials]
+commands:
+  fakequit:
+    description: This is a demo command.
+    usage: /<command> [player]
+    permission: vanishfakeleave.fakequit
+    permission-message: §cYou don't have a permission.
+  fakejoin:
+    description: This is a demo command.
+    usage: /<command> [player]
+    permission: vanishfakeleave.fakejoin
+    permission-message: §cYou don't have a permission.
+  toggle:
+    description: This is a demo command.
+    usage: /<command> [player]
+    permission: vanishfakeleave.fakejoin
+    permission-message: §cYou don't have a permission.
